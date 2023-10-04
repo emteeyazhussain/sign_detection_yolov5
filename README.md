@@ -1,6 +1,8 @@
->>First install the Anaconda 
->>Then Run this command
+# >>First install the Anaconda 
+# >>Then Run this command
+
 1.conda create -n yolo_v5_obj.det python=3.7
+
 2.conda activate yolo_v5_0bj_det
 
 # YOLO web app
